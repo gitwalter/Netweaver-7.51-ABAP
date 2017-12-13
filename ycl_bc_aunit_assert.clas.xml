@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>YCL_BC_AUNIT_ASSERT</CLSNAME>
+    <VERSION>1</VERSION>
+    <LANGU>D</LANGU>
+    <DESCRIPT>Oberklasse für Unittests</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <CLSABSTRCT>X</CLSABSTRCT>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_AUNIT_ASSERT</CLSNAME>
+     <CMPNAME>APPEND_AND_TO_WHERE_CLAUSE</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>AND zur WHERE-Bedingung hinzufügen wenn nötig</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_AUNIT_ASSERT</CLSNAME>
+     <CMPNAME>ASSERT_EQUALS_MSG</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Prüfung auf Gleichheit mit detailliertem Text</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_AUNIT_ASSERT</CLSNAME>
+     <CMPNAME>ASSERT_MESSAGE_IN_RETURNTABLE</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Absichern: Bestimmte Meldung ist in der Returntabelle</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_AUNIT_ASSERT</CLSNAME>
+     <CMPNAME>IS_TO_PROCESS</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Ist die Testklasse im aktuellen Mandanten zu prozessieren?</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

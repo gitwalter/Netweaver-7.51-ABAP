@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>YCL_BC_AUNIT_PROTOCOL</CLSNAME>
+    <VERSION>1</VERSION>
+    <LANGU>D</LANGU>
+    <DESCRIPT>Protokollierung für ABAP-Unittests</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <CLSFINAL>X</CLSFINAL>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_AUNIT_PROTOCOL</CLSNAME>
+     <CMPNAME>GC_MSGV1_CLASSNAME</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Name der Klasse</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_AUNIT_PROTOCOL</CLSNAME>
+     <CMPNAME>GET_PROTOCOL_ENTRY</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Lese Datenteil von Protokolleintrag</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_AUNIT_PROTOCOL</CLSNAME>
+     <CMPNAME>GET_PROTOCOL_RECORD</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Lese kompletten Protokolleintrag</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_AUNIT_PROTOCOL</CLSNAME>
+     <CMPNAME>MV_CLASSNAME</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Objekttypname</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_AUNIT_PROTOCOL</CLSNAME>
+     <CMPNAME>MV_METHOD_END</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Laufzeit</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_AUNIT_PROTOCOL</CLSNAME>
+     <CMPNAME>MV_METHOD_START</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Laufzeit</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_AUNIT_PROTOCOL</CLSNAME>
+     <CMPNAME>SET_CLASSNAME</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Setze den Klassennamen</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_AUNIT_PROTOCOL</CLSNAME>
+     <CMPNAME>WRITE_PROTOCOL_METHOD_END</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Protokolleintrag für Methodenende schreiben</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_AUNIT_PROTOCOL</CLSNAME>
+     <CMPNAME>WRITE_PROTOCOL_METHOD_START</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Protokolleintrag für Methodenstart schreiben</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_AUNIT_PROTOCOL</CLSNAME>
+     <CMPNAME>WRITE_PROTOCOL_NOT_EXECUTABLE</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Protokolleintrag für nicht ausführbare Methoden schreiben</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_AUNIT_PROTOCOL</CLSNAME>
+     <CMPNAME>WRITE_PROTOCOL_NOT_EXECUTED</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Protokolleintrag für nicht ausgeführte Methoden schreiben</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

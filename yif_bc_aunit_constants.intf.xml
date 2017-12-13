@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_INTF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOINTERF>
+    <CLSNAME>YIF_BC_AUNIT_CONSTANTS</CLSNAME>
+    <VERSION>1</VERSION>
+    <LANGU>D</LANGU>
+    <DESCRIPT>Konstanten ABAP UNIT Tests</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <UNICODE>X</UNICODE>
+   </VSEOINTERF>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>YIF_BC_AUNIT_CONSTANTS</CLSNAME>
+     <CMPNAME>GC_AUNIT_STATUS_ERRONEOUS</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Fehlerhaft</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YIF_BC_AUNIT_CONSTANTS</CLSNAME>
+     <CMPNAME>GC_AUNIT_STATUS_NOT_EXECUTABLE</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Im Mandanten nicht ausführbar</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YIF_BC_AUNIT_CONSTANTS</CLSNAME>
+     <CMPNAME>GC_AUNIT_STATUS_NOT_EXECUTED</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Nicht ausgeführt</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YIF_BC_AUNIT_CONSTANTS</CLSNAME>
+     <CMPNAME>GC_AUNIT_STATUS_SUCCESSFUL</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Erfolgreich</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YIF_BC_AUNIT_CONSTANTS</CLSNAME>
+     <CMPNAME>GC_X</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Einstelliges Kennzeichen</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
