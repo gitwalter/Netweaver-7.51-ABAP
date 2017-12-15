@@ -47,6 +47,7 @@
       <RSFDO>
        <PARAMETER>RESULT</PARAMETER>
        <KIND>P</KIND>
+       <STEXT>Ergebnisbeobachtung</STEXT>
        <INDEX> 002</INDEX>
       </RSFDO>
      </DOCUMENTATION>
@@ -65,6 +66,7 @@
       <RSFDO>
        <PARAMETER>TASK_INFO</PARAMETER>
        <KIND>P</KIND>
+       <STEXT>ABAP Unit Result</STEXT>
        <INDEX> 001</INDEX>
       </RSFDO>
      </DOCUMENTATION>
@@ -84,6 +86,7 @@
       <RSFDO>
        <PARAMETER>LISTENER_INSTANCE</PARAMETER>
        <KIND>P</KIND>
+       <STEXT>ABAP Unit Result</STEXT>
        <INDEX> 001</INDEX>
       </RSFDO>
      </DOCUMENTATION>
