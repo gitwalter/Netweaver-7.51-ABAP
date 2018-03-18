@@ -1,4 +1,4 @@
-FUNCTION Y_BC_AU___CREATE_TREE_LISTENER.
+function y_bc_au___create_tree_listener.
 *"--------------------------------------------------------------------
 *"*"Lokale Schnittstelle:
 *"  IMPORTING
@@ -36,10 +36,10 @@ FUNCTION Y_BC_AU___CREATE_TREE_LISTENER.
 *    endif.
 *  endif.
 *
-*  create object result type ycl_bc_aunit_online_listener.
+  create object result type ycl_bc_aunit_online_listener.
 *
 
 
 
 
-ENDFUNCTION.
+endfunction.

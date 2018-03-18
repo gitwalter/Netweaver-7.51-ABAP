@@ -29,8 +29,11 @@ CLASS YCL_BC_AUNIT_EXAMPLE IMPLEMENTATION.
       return.
     endif.
 
+* test fails
     assert_equals( exp = 1 act = 3 ).
 
+* test success
+*    assert_equals( exp = 1 act = 1 ).
   endmethod.
 
 
